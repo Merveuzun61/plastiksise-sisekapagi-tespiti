@@ -1,0 +1,10 @@
+# Veri seti klasör yolları
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+# Sınıf sayısı
+nc: 2
+
+# Sınıf isimleri
+names: ['plastik_sise', 'sise_kapagi']
